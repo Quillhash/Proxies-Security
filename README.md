@@ -1,5 +1,7 @@
 # Proxies, Upgradeable Smart Contracts and their Security
 
+![](./public/mindmap.png)
+
 ## Table of Contents
 
 -   [Introduction](#introduction)
@@ -32,7 +34,7 @@ Welcome to the Proxies & Upgradeable Smart Contracts repository by QuillAudits. 
 
 One thing the Blockchain is very often connected to is the immutability of data. For long time it was "Once it's deployed, it cannot be altered". That is still true for historical transaction information. But it is not true for Smart Contract storage and addresses.
 
-#### Why do I need a proxy and how do I use it?
+#### Why do you need a proxy and how do I use it?
 
 By design, contract code on a blockchain is immutable. Though a key feature, it leads to difficulty when considering upgradeability. Newer entrants may wonder why “upgrading” on a blockchain is necessary. Inevitabilities requiring code changes still remain, including: bug fixes, patches, optimizations, feature releases, etc.
 
