@@ -8,7 +8,6 @@
 -   [Smart Contract Storage Layout](#smart-contract-storage-layout)
 -   [`delegatecall`](#delegatecall)
 -   [Proxy Patterns](#proxy-patterns)
--   [Upgradeable Smart Contracts](#upgradeable-smart-contracts)
     -   [The Minimal Proxy](#the-minimal-proxy)
     -   [The Initializeable Proxy](#the-initializeable-proxy)
     -   [The Upgradeable Proxy](#the-upgradeable-proxy)
