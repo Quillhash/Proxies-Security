@@ -29,7 +29,7 @@
 
 ## Introduction
 
-Welcome to the Proxies & Upgradeable Smart Contracts repository by QuillAudits. This repositoy contains all the technical, theoretical and practical concepts, their explanations and implementations required to understand everything about the upgradeability of smart contracts in Solidity.
+Welcome to the Proxies & Upgradeable Smart Contracts repository by QuillAudits. This repository contains all the technical, theoretical and practical concepts, their explanations and implementations required to understand everything about the upgradeability of smart contracts in Solidity.
 
 One thing the Blockchain is very often connected to is the immutability of data. For long time it was "Once it's deployed, it cannot be altered". That is still true for historical transaction information. But it is not true for Smart Contract storage and addresses.
 
